@@ -24,12 +24,6 @@ function TodoApp(){
     
     const[task,setTask]= useState("");
 
-    useEffect(() => {
-        const savedTasks = localStorage.getItem("tasks");
-        if (savedTasks) {
-            setTasks(JSON.parse(savedTasks)); 
-        }
-    }, []);
     
      useEffect(()=>{
         localStorage.setItem("tasks", JSON.stringify(tasks));
