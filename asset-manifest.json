@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arosange/Task-List.git/static/css/main.b9c14064.css",
+    "main.js": "/arosange/Task-List.git/static/js/main.f2d439d3.js",
+    "static/js/453.d6579b24.chunk.js": "/arosange/Task-List.git/static/js/453.d6579b24.chunk.js",
+    "index.html": "/arosange/Task-List.git/index.html",
+    "main.b9c14064.css.map": "/arosange/Task-List.git/static/css/main.b9c14064.css.map",
+    "main.f2d439d3.js.map": "/arosange/Task-List.git/static/js/main.f2d439d3.js.map",
+    "453.d6579b24.chunk.js.map": "/arosange/Task-List.git/static/js/453.d6579b24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9c14064.css",
+    "static/js/main.f2d439d3.js"
+  ]
+}
