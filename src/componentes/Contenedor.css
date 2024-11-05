@@ -1,0 +1,147 @@
+
+.welcome-bar{
+    background-color: #fff;
+}
+
+.contenedor{
+    margin:0 auto;
+    font-size: 32px;
+   
+    padding-bottom: 20px;
+  
+
+}
+.contenedor h1{
+    text-align: center;
+    margin-left: 0;
+    color: #fff;
+}
+
+.contenedor h2{
+    margin-top: 40px;
+    margin-left: 60px;
+    margin-bottom: 0;
+    font-size: 36px;
+    color: #745beb;
+}
+
+.contenedor p{
+    margin-top: 10px;
+    margin-left: 60px;
+    font-size: 20px;
+    
+}
+
+.welcome-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+}
+
+.avatar{
+    height: 100px;
+    background-color: #524b75c6;
+    border-radius: 50%;
+    padding: 10px;
+    margin-right: 40px;
+    margin-top: 40px;
+}
+button{
+    cursor: pointer;
+}
+
+.removeBtn{
+    border-radius: 50%;
+    font-size: 30px;
+    padding: 5px 15px;
+    background-color: #fe88ac;
+    color: #fff;
+    text-align: center;
+    border: none;
+}
+
+.addBtn{
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 16px;
+    border: none;
+    background-color: #8AB6F2;
+    color: #fff;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.15);
+      font-weight: 600px;
+    
+}
+
+.tasks-section{
+    border-radius: 50px 50px 0 0 ;
+    background-color: #7e62eb;
+    padding-top: 20px;
+    margin-top: 20px;
+   padding-bottom: 100px;
+}
+
+input{
+    width: 60%;
+    padding: 15px;
+    font-size: 20px;
+    margin: 0 auto;
+    margin-right: 10px;
+    border: none;
+    
+
+}
+
+.task-container{
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 30;
+    max-width: 900px;
+
+    
+    
+}
+
+.task-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #6749dd;
+    color: #fff;
+    border: none;
+    border-left: 15px solid #271865;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+   
+}
+
+
+li{
+    font-size: 20px;
+    text-align: left;
+    list-style-type:square ;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    padding-left: 50px;
+    
+}
+
+.task-list{
+padding-top: 10px;
+max-width: 705px;
+margin: auto;
+
+height: 350px;
+overflow: scroll;
+margin-top: 30px;
+scrollbar-width: 20px;
+
+}
+
+ul{
+    margin-top: 0;
+    margin-right: 40px;
+}
+ 
+ 
